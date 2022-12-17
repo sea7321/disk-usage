@@ -3,8 +3,8 @@
 
 ## Description
 A program that runs in a targeted directory to determine the total number of folders, files, and the size of the data. This program works similarly
-to the disk usage tool on Linux/Unix operating systems, but it was developed sequentially and in parallel using the C# parallel libraries to compare
-run times for given directories.
+to the disk usage tool on Linux/Unix operating systems, however, it was developed both sequentially and in parallel using the C# parallel libraries
+to compare run times for given directories.
 
 ## Getting Started
 
